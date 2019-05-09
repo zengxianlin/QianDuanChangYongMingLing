@@ -35,5 +35,5 @@ pm2部署项目
 pm2
 // 初始化
 pm2 deploy ecosystem.config.js production setup
-
+// 部署
 pm2 deploy ecosystem.config.js production
